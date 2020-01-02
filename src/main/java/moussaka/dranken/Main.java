@@ -1,4 +1,4 @@
-package com.moussaka;
+package moussaka.dranken;
 
 public class Main {
 
