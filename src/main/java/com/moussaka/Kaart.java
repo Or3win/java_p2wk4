@@ -25,4 +25,9 @@ public class Kaart {
 
         return totalePrijs;
     }
+
+    @Override
+    public String toString() {
+        return "Kaart:" + dranken;
+    }
 }
